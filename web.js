@@ -1,5 +1,5 @@
 var fs = require('fs');
-var Buffer = require('Buffer');
+var Buffer = new(buffer);
 
 var express = require('express');
 
